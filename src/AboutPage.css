@@ -1,0 +1,38 @@
+/* AboutPage.css */
+
+/* Style the container */
+.about-container {
+    max-width: 800px;
+    max-height:700px; /* You can adjust the max-width to control the container's dimensions */
+    margin: 0 auto; /* Center the container horizontally */
+    padding: 20px; /* Add some padding to the container */
+    background-color: F; /* Background color of the container */
+  }
+  
+  /* Style the heading */
+  h1 {
+    font-size: 28px; /* Adjust the font size as needed */
+    color: #008080; /* Text color for the heading */
+    margin-bottom: 20px; /* Space below the heading */
+    text-align: center;
+    text-decoration: wavy;
+  }
+  
+  /* Style the paragraph text */
+  p {
+    font-size: 22px; /* Adjust the font size as needed */
+    color: #008080; /* Text color for paragraphs */
+    line-height: 1.5; /* Line height for readability */
+  }
+  
+  
+#AboutPage {
+  background-image: url('https://img.freepik.com/premium-photo/breakfast-with-croissant-stone-background_115919-24303.jpg?size=626&ext=jpg&ga=GA1.1.783724358.1697279446&semt=ais');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed; /* Optional: If you want the background to stay fixed while scrolling */
+}
+
+  
+
+  

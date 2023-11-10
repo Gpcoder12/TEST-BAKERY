@@ -1,0 +1,53 @@
+/* Reset some default styles and set a background image */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+/* Navigation styles */
+nav {
+  background-color: rgba(0, 0, 0, 0.7);
+  color: white;
+  padding: 1rem;
+}
+
+nav a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  margin: 0 1rem;
+}
+
+/* Home page styles */
+.home-container {
+  text-align: center;
+  padding: 100px;
+  color: white;
+}
+.h1{text-align: center;
+    color: #008080;}
+
+
+/* About and Menu page styles (you can customize further) */
+.page-container {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 2rem;
+  margin: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Footer styles */
+footer {
+  background-color: rgba(0, 0, 0, 0.7);
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
+
+

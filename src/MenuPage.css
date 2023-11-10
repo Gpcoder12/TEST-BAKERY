@@ -1,0 +1,10 @@
+#card {
+  flex: 1;
+}
+
+#card:hover {
+  flex: 3;
+  transition: 3s;
+}
+
+  
